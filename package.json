@@ -1,9 +1,9 @@
 {
-  "name": "my-afnm-mod",
+  "name": "jmh-mod",
   "version": "0.0.1",
-  "description": "A mod for AFNM",
+  "description": "A mod for AFNM for practice",
   "author": {
-    "name": "<your name>"
+    "name": "jmh"
   },
   "main": "dist/mod.js",
   "scripts": {
